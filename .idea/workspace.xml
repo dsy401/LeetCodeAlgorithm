@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55b5076c-2e6f-483f-a0d8-9d38c91f1fc8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +12,11 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution.coverage" NAME="solution Coverage Results" MODIFIED="1576546055691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/ImplementMagicDictionary" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$ReplaceWords.coverage" NAME="ReplaceWords Coverage Results" MODIFIED="1583962913894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/ReplaceWords" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1576621949368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Permutations" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1577063628890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/reverse_string" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$Pow.coverage" NAME="Pow Coverage Results" MODIFIED="1568255643179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Pow(x,n)" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$RansomNote.coverage" NAME="RansomNote Coverage Results" MODIFIED="1581459472315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/RansomNote" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$RansomNote.coverage" NAME="RansomNote Coverage Results" MODIFIED="1583961234302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/RansomNote" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$relativeSortArray.coverage" NAME="relativeSortArray Coverage Results" MODIFIED="1568722273738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/RelativeSortArray" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$IncreasingTripletSubsequence.coverage" NAME="IncreasingTripletSubsequence Coverage Results" MODIFIED="1576465355653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/IncreasingTripletSubsequence" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1577063608941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Element Appearing More Than 25% In Sorted Array" />
@@ -26,61 +26,53 @@
     <session id="1096356424">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.4" value="9" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="description" value="10" />
           <entry key="js" value="3" />
-          <entry key="py" value="32" />
-          <entry key="txt" value="22" />
+          <entry key="pip" value="1" />
+          <entry key="py" value="33" />
+          <entry key="txt" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="3" />
-          <entry key="PLAIN_TEXT" value="32" />
-          <entry key="Python" value="32" />
+          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="27" />
-          <entry key="py" value="5204" />
+          <entry key="py" value="6026" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="27" />
-          <entry key="Python" value="5204" />
+          <entry key="Python" value="6026" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/RansomNote/RansomNote.py">
+        <entry file="file://$PROJECT_DIR$/Medium/ReplaceWords/ReplaceWords.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="13" selection-end-column="28" />
+              <caret selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -150,6 +142,8 @@
         <option value="$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py" />
         <option value="$PROJECT_DIR$/Easy/RansomNote/description.txt" />
         <option value="$PROJECT_DIR$/Easy/RansomNote/RansomNote.py" />
+        <option value="$PROJECT_DIR$/Medium/ReplaceWords/description.txt" />
+        <option value="$PROJECT_DIR$/Medium/ReplaceWords/ReplaceWords.py" />
       </list>
     </option>
   </component>
@@ -171,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,24 +180,30 @@
             <path>
               <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="RansomNote" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Medium" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Medium" type="462c0819:PsiDirectoryNode" />
-              <item name="ScoreOfParentheses" type="462c0819:PsiDirectoryNode" />
+              <item name="ReplaceWords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RansomNote">
+  <component name="RunManager" selected="Python.ReplaceWords">
     <configuration name="RansomNote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,6 +239,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/RansomNote/RansomNote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReplaceWords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodeAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/ReplaceWords" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/ReplaceWords/ReplaceWords.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,42 +335,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodeAlgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/ImplementMagicDictionary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/ImplementMagicDictionary/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
       <item itemvalue="Python.solution (3)" />
       <item itemvalue="Python.RansomNote" />
+      <item itemvalue="Python.ReplaceWords" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ReplaceWords" />
         <item itemvalue="Python.RansomNote" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +369,7 @@
     <frame x="-1808" y="47" width="1680" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23748474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24297924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -402,13 +401,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/Two Sum/description.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/Two Sum/TwoSum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -718,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/RansomNote/description.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -734,8 +719,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/RansomNote/RansomNote.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/ScoreOfParentheses/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/ReplaceWords/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/bin/pip">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/ReplaceWords/ReplaceWords.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="13" selection-end-column="28" />
+          <caret selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
