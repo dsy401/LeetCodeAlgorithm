@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55b5076c-2e6f-483f-a0d8-9d38c91f1fc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Easy/RangeSumOfBST/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/RangeSumOfBST/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +12,19 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution.coverage" NAME="solution Coverage Results" MODIFIED="1576546055691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/ImplementMagicDictionary" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__3_.coverage" NAME="index (3) Coverage Results" MODIFIED="1584312411246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Generate a String With Characters That Have Odd Counts" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__3_.coverage" NAME="index (3) Coverage Results" MODIFIED="1584328778734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Deepest Leaves Sum" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1576621949368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Permutations" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1577063628890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/reverse_string" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__4_.coverage" NAME="index (4) Coverage Results" MODIFIED="1584313028822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Backspace String Compare" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__4_.coverage" NAME="index (4) Coverage Results" MODIFIED="1601040400212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/PathSumII" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$Pow.coverage" NAME="Pow Coverage Results" MODIFIED="1568255643179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Pow(x,n)" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$RansomNote.coverage" NAME="RansomNote Coverage Results" MODIFIED="1583961234302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/RansomNote" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$IncreasingTripletSubsequence.coverage" NAME="IncreasingTripletSubsequence Coverage Results" MODIFIED="1576465355653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/IncreasingTripletSubsequence" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__2_.coverage" NAME="index (2) Coverage Results" MODIFIED="1584322106485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Minimum Size Subarray Sum" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$ReplaceWords.coverage" NAME="ReplaceWords Coverage Results" MODIFIED="1583963515108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/ReplaceWords" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index.coverage" NAME="index Coverage Results" MODIFIED="1584319820442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Decrypt String from Alphabet to Integer Mapping" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1584320376347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Find N Unique Integers Sum up to Zero" />
-    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__5_.coverage" NAME="index (5) Coverage Results" MODIFIED="1584312654038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Remove Outermost Parentheses" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$SingleNumber.coverage" NAME="SingleNumber Coverage Results" MODIFIED="1601040675272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/SingleNumber" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index.coverage" NAME="index Coverage Results" MODIFIED="1601041370131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/MajorityElement" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__1_.coverage" NAME="index (1) Coverage Results" MODIFIED="1601040404761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Find N Unique Integers Sum up to Zero" />
+    <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$index__5_.coverage" NAME="index (5) Coverage Results" MODIFIED="1601040423980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Medium/Insert into a Binary Search Tree" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$relativeSortArray.coverage" NAME="relativeSortArray Coverage Results" MODIFIED="1568722273738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/RelativeSortArray" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1577063608941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Element Appearing More Than 25% In Sorted Array" />
     <SUITE FILE_PATH="coverage/LeetCodeAlgorithm$ClimbingStair.coverage" NAME="ClimbingStair Coverage Results" MODIFIED="1568723796286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/ClimbingStairs" />
@@ -32,14 +33,14 @@
     <session id="1096356424">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="9" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,31 +48,38 @@
           <entry key="description" value="12" />
           <entry key="js" value="4" />
           <entry key="pip" value="1" />
-          <entry key="py" value="80" />
-          <entry key="txt" value="53" />
+          <entry key="py" value="89" />
+          <entry key="tsx" value="1" />
+          <entry key="txt" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="4" />
-          <entry key="PLAIN_TEXT" value="65" />
-          <entry key="Python" value="81" />
+          <entry key="PLAIN_TEXT" value="72" />
+          <entry key="Python" value="90" />
+          <entry key="TypeScript JSX" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="description" value="3" />
-          <entry key="dummy" value="3" />
+          <entry key="dummy" value="18" />
           <entry key="js" value="27" />
-          <entry key="py" value="16155" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="19498" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="27" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="16155" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="19498" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -79,10 +87,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Easy/N-ary Tree Preorder Traversal/index.py">
+        <entry file="file://$PROJECT_DIR$/Easy/MajorityElement/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+            <state relative-caret-position="165">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -103,18 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Easy/NumberOfStepToReducerANumberToZero/index.py" />
-        <option value="$PROJECT_DIR$/Easy/JewlsAndStones/description.txt" />
-        <option value="$PROJECT_DIR$/Easy/JewlsAndStones/index.py" />
-        <option value="$PROJECT_DIR$/Easy/DecompressRunLengthEcodedList/description.txt" />
-        <option value="$PROJECT_DIR$/Easy/DecompressRunLengthEcodedList/index.py" />
-        <option value="$PROJECT_DIR$/Easy/subtractProductAndSum/description.txt" />
-        <option value="$PROJECT_DIR$/Easy/subtractProductAndSum/index.py" />
-        <option value="$PROJECT_DIR$/Easy/FindNumberswithEvenNumberofDigits/description.txt" />
-        <option value="$PROJECT_DIR$/Easy/FindNumberswithEvenNumberofDigits/index.py" />
-        <option value="$PROJECT_DIR$/Easy/SplitAStringinBalancedString/description.txt" />
-        <option value="$PROJECT_DIR$/Easy/SplitAStringinBalancedString/index.py" />
-        <option value="$PROJECT_DIR$/Easy/ConvertBinaryNumberinALinkedListToInteger/description.txt" />
         <option value="$PROJECT_DIR$/Easy/ConvertBinaryNumberinALinkedListToInteger/index.py" />
         <option value="$PROJECT_DIR$/Easy/RangeSumOfBST/description.txt" />
         <option value="$PROJECT_DIR$/Easy/RangeSumOfBST/index.py" />
@@ -154,6 +150,18 @@
         <option value="$PROJECT_DIR$/Medium/Minimum Size Subarray Sum/index.py" />
         <option value="$PROJECT_DIR$/Easy/N-ary Tree Preorder Traversal/description.txt" />
         <option value="$PROJECT_DIR$/Easy/N-ary Tree Preorder Traversal/index.py" />
+        <option value="$PROJECT_DIR$/Medium/Deepest Leaves Sum/description.txt" />
+        <option value="$PROJECT_DIR$/Medium/Deepest Leaves Sum/index.py" />
+        <option value="$PROJECT_DIR$/Medium/Insert into a Binary Search Tree/description.txt" />
+        <option value="$PROJECT_DIR$/Medium/Insert into a Binary Search Tree/index.py" />
+        <option value="$PROJECT_DIR$/Medium/PathSumII/description.txt" />
+        <option value="$PROJECT_DIR$/Medium/PathSumII/index.py" />
+        <option value="$PROJECT_DIR$/Easy/SingleNumber/description.txt" />
+        <option value="$PROJECT_DIR$/Easy/SingleNumber/index.py" />
+        <option value="$PROJECT_DIR$/Easy/SingleNumber/SingleNumber.py" />
+        <option value="$PROJECT_DIR$/Easy/LinkedListCycle/LinkedListCycle.py" />
+        <option value="$PROJECT_DIR$/Easy/MajorityElement/description.txt" />
+        <option value="$PROJECT_DIR$/Easy/MajorityElement/index.py" />
       </list>
     </option>
   </component>
@@ -164,9 +172,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1844" />
-    <option name="y" value="41" />
-    <option name="width" value="1680" />
+    <option name="x" value="89" />
+    <option name="y" value="133" />
+    <option name="width" value="1516" />
     <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,13 +200,7 @@
               <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="BaclancedBinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Easy" type="462c0819:PsiDirectoryNode" />
-              <item name="N-ary Tree Preorder Traversal" type="462c0819:PsiDirectoryNode" />
+              <item name="MajorityElement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCodeAlgorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -208,7 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,6 +218,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -234,7 +237,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index (2)">
+  <component name="RunManager" selected="Python.index">
+    <configuration name="SingleNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCodeAlgorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/SingleNumber" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/SingleNumber/SingleNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,28 +282,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCodeAlgorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/Minimum Size Subarray Sum" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Minimum Size Subarray Sum/index.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="index (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCodeAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,12 +290,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/Backspace String Compare" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/PathSumII" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Backspace String Compare/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/PathSumII/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,12 +312,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/Remove Outermost Parentheses" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Medium/Insert into a Binary Search Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Remove Outermost Parentheses/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Medium/Insert into a Binary Search Tree/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,12 +334,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/Decrypt String from Alphabet to Integer Mapping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/MajorityElement" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Decrypt String from Alphabet to Integer Mapping/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/MajorityElement/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,19 +349,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.index (1)" />
       <item itemvalue="Python.index (5)" />
       <item itemvalue="Python.index (4)" />
+      <item itemvalue="Python.SingleNumber" />
       <item itemvalue="Python.index" />
-      <item itemvalue="Python.index (1)" />
-      <item itemvalue="Python.index (2)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.index (2)" />
-        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index" />
-        <item itemvalue="Python.index (4)" />
+        <item itemvalue="Python.SingleNumber" />
         <item itemvalue="Python.index (5)" />
+        <item itemvalue="Python.index (1)" />
+        <item itemvalue="Python.index (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -376,15 +379,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1844" y="41" width="1680" height="956" extended-state="0" />
+    <frame x="89" y="133" width="1516" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24297924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28018996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -411,96 +415,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Easy/subtractProductAndSum/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/SplitAStringinBalancedString/description.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/FindNumberswithEvenNumberofDigits/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/SplitAStringinBalancedString/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <marker date="1583987245029" expanded="true" signature="310:312" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/ConvertBinaryNumberinALinkedListToInteger/description.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/ConvertBinaryNumberinALinkedListToInteger/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/RangeSumOfBST/description.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/calculatorII/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/BinaryTreePaths/BinaryTreePaths.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/RangeSumOfBST/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/N-thTribonacciNumber/description.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/N-thTribonacciNumber/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Easy/MinimumTimeVisitingAllPoints/description">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Easy/MinimumTimeVisitingAllPoints/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -694,11 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <marker date="1584316693252" expanded="true" signature="48:78" ph="..." />
-            <marker date="1584316693252" expanded="true" signature="125:131" ph="..." />
-            <marker date="1584316693252" expanded="true" signature="170:176" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -737,16 +646,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Medium/Pow(x,n)/Pow.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Medium/Minimum Size Subarray Sum/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding>
-            <marker date="1584322344543" expanded="true" signature="97:181" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -762,8 +665,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Easy/N-ary Tree Preorder Traversal/index.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/Deepest Leaves Sum/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/Deepest Leaves Sum/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/Insert into a Binary Search Tree/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/Pow(x,n)/Pow.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/Insert into a Binary Search Tree/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/PathSumII/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/PathSumII/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/SingleNumber/description.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/SingleNumber/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="76" lean-forward="true" selection-start-line="10" selection-start-column="76" selection-end-line="10" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/SingleNumber/SingleNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/LinkedListCycle/description.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/LinkedListCycle/LinkedListCycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/MajorityElement/description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/MajorityElement/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
